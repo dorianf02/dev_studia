@@ -1,4 +1,4 @@
-# uycie obrazu z openjdk v17
+# uycie obrazu z openjdk17
 FROM openjdk:17-jdk-slim
 
 # katalog roboczy
